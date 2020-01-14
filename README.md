@@ -16,3 +16,14 @@ The four questions of business interest that I developed are:
 friendly movies?
 * What are the 10 longest movies featuring the most best
 selling actor?
+* What is the biggest lag difference per customer (for top 10 paying customers) in terms of payments versus prior month?
+* What is the split by rating for the most popular film category?
+
+## Software required / used
+* SQL
+* Atom
+* Microsoft Excel
+* Microsoft PowerPoint
+
+## Credits
+Special thanks to the Udacity team of developers and mentors to guide students throughout SQL basics.
